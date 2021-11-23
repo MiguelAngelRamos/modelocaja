@@ -1,0 +1,13 @@
+.padre {
+
+}
+
+.hijo {
+  padding: 10px;
+  width: 200px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: cadetblue;
+  border: 5px solid red;
+  margin: 10px;
+}
